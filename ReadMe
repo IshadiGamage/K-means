@@ -1,0 +1,9 @@
+1)Navigate into the project folder using the command prompt.
+ 
+2) Python script should be executed on the python terminal by giving the command,
+		python kmeans.py
+(When python 2.7 is installed)
+
+3) Once the python script is executed output.csv file and cleanfile.csv files are generated because of the data cleaning process.
+
+4) After that 2 graphs will be poped up before clustering and after clustering.That is the final output of the K means algorithm.
